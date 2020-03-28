@@ -1,0 +1,13 @@
+D:\Repo Git\Repostas-Lista-Ninja-2\Q1\bin\Debug\netcoreapp3.1\Q1.exe
+D:\Repo Git\Repostas-Lista-Ninja-2\Q1\bin\Debug\netcoreapp3.1\Q1.deps.json
+D:\Repo Git\Repostas-Lista-Ninja-2\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.json
+D:\Repo Git\Repostas-Lista-Ninja-2\Q1\bin\Debug\netcoreapp3.1\Q1.runtimeconfig.dev.json
+D:\Repo Git\Repostas-Lista-Ninja-2\Q1\bin\Debug\netcoreapp3.1\Q1.dll
+D:\Repo Git\Repostas-Lista-Ninja-2\Q1\bin\Debug\netcoreapp3.1\Q1.pdb
+D:\Repo Git\Repostas-Lista-Ninja-2\Q1\obj\Debug\netcoreapp3.1\Q1.csprojAssemblyReference.cache
+D:\Repo Git\Repostas-Lista-Ninja-2\Q1\obj\Debug\netcoreapp3.1\Q1.csproj.CoreCompileInputs.cache
+D:\Repo Git\Repostas-Lista-Ninja-2\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfoInputs.cache
+D:\Repo Git\Repostas-Lista-Ninja-2\Q1\obj\Debug\netcoreapp3.1\Q1.AssemblyInfo.cs
+D:\Repo Git\Repostas-Lista-Ninja-2\Q1\obj\Debug\netcoreapp3.1\Q1.dll
+D:\Repo Git\Repostas-Lista-Ninja-2\Q1\obj\Debug\netcoreapp3.1\Q1.pdb
+D:\Repo Git\Repostas-Lista-Ninja-2\Q1\obj\Debug\netcoreapp3.1\Q1.genruntimeconfig.cache
