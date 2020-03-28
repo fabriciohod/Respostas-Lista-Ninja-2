@@ -1,0 +1,13 @@
+D:\Repo Git\Repostas-Lista-Ninja-2\Q2\bin\Debug\netcoreapp3.1\Q2.exe
+D:\Repo Git\Repostas-Lista-Ninja-2\Q2\bin\Debug\netcoreapp3.1\Q2.deps.json
+D:\Repo Git\Repostas-Lista-Ninja-2\Q2\bin\Debug\netcoreapp3.1\Q2.runtimeconfig.json
+D:\Repo Git\Repostas-Lista-Ninja-2\Q2\bin\Debug\netcoreapp3.1\Q2.runtimeconfig.dev.json
+D:\Repo Git\Repostas-Lista-Ninja-2\Q2\bin\Debug\netcoreapp3.1\Q2.dll
+D:\Repo Git\Repostas-Lista-Ninja-2\Q2\bin\Debug\netcoreapp3.1\Q2.pdb
+D:\Repo Git\Repostas-Lista-Ninja-2\Q2\obj\Debug\netcoreapp3.1\Q2.csprojAssemblyReference.cache
+D:\Repo Git\Repostas-Lista-Ninja-2\Q2\obj\Debug\netcoreapp3.1\Q2.csproj.CoreCompileInputs.cache
+D:\Repo Git\Repostas-Lista-Ninja-2\Q2\obj\Debug\netcoreapp3.1\Q2.AssemblyInfoInputs.cache
+D:\Repo Git\Repostas-Lista-Ninja-2\Q2\obj\Debug\netcoreapp3.1\Q2.AssemblyInfo.cs
+D:\Repo Git\Repostas-Lista-Ninja-2\Q2\obj\Debug\netcoreapp3.1\Q2.dll
+D:\Repo Git\Repostas-Lista-Ninja-2\Q2\obj\Debug\netcoreapp3.1\Q2.pdb
+D:\Repo Git\Repostas-Lista-Ninja-2\Q2\obj\Debug\netcoreapp3.1\Q2.genruntimeconfig.cache
