@@ -1,3 +1,4 @@
+Aluno: Fabricio Henrique Matricula: 1924070026
 **Lista Ninja 2** 
 
 1. Elabore um programa que receba o horário inicial (horas e minutos)  e final (horas e minutos) de um jogo, e retorne sua duração total. Exemplos 
