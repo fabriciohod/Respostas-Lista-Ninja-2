@@ -23,7 +23,7 @@
 
 3. Em um jogo de basquete de robôs a pontuação é obtida de acordo com a posição que o robô se encontra na quadra. Na figura 1 está apresentada uma representação da quadra com as diversas zonas de pontuação.
 
-   <img src="https://olimpiada.ic.unicamp.br/static/img/task_images/2018f1pj_basquete.png" alt="Img" style="zoom:25%;" />
+   <img src="https://olimpiada.ic.unicamp.br/static/img/task_images/2018f1pj_basquete.png" alt="Img" style="zoom:15%;" />
 
    Elabore um programa que informa a pontuação total obtida após 5 tentativas. Para cada tentativa, o usuário informará a distância da tentativa (X) e se a cesta foi acertada ou não (C).
 
